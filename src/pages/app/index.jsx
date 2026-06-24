@@ -23,6 +23,7 @@ export default function App() {
         <ul>
           <li>
             <Link to="/contato">Contato</Link>
+            <Link to = '/eventos'>Eventos</Link>
           </li>
         </ul>
       </section>
